@@ -11,7 +11,7 @@ Student Expense Tracker is a command-line Java application for recording and rev
 5. View total, average, highest, and category-wise expenses
 6. Save records to a local text file
 7. Load saved records when the application starts
-8. Validate user input and handle common input/file errors
+8. Validate user input and handle common input.
 
 ## 3. Technologies Used
 - Java
@@ -121,7 +121,7 @@ The `TestExpenseManager.java` class performs basic checks for:
 - Deleting expenses
 - Checking the resulting collection state
 
-For the final submission, additional manual validation should be performed using the menu and documented in the project report.
+For the final submission, i have added additnal manual validation should be perfmed using the menu and is displayed  in the project report.
 
 ## 10. Notes for Evaluation
 The application is intentionally command-line based so that it can be compiled and executed from a terminal without a GUI-based setup.
